@@ -16,6 +16,14 @@
  
  </script>
  
+ 
+ 3- 
+  <script>
+  var x = 112;
+  console.log(x)
+  document.write(typeof x);
+  </script>
+ 
 -------------------------------------------------------------------------------------------- 
  
  x != y               # x is not equal to y
