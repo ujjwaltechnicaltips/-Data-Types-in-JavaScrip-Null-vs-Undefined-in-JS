@@ -1,0 +1,25 @@
+ Data Types in JavaScrip Null vs Undefined in JS
+ 
+ 
+ 1- 
+  <script>
+ var x;
+ console.log(x);
+ 
+ </script>
+
+2-
+ 
+ <script>
+ var x = null;
+ console.log(x);
+ 
+ </script>
+ 
+-------------------------------------------------------------------------------------------- 
+ 
+ x != y               # x is not equal to y
+x > y                # x is greater than y
+x < y                # x is less than y
+x >= y               # x is greater than or equal to y
+x <= y               # x is less than or equal to y
